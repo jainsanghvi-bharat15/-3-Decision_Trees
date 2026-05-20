@@ -1,0 +1,16 @@
+Cuisine,MealTime,AgeGroup,Location,RestaurantType
+Italian,Lunch,Adult,Urban,Casual Dining
+Chinese,Dinner,Teen,Urban,Fast Food
+Indian,Breakfast,Adult,Rural,Casual Dining
+Mexican,Lunch,Senior,Urban,Fine Dining
+Chinese,Lunch,Teen,Urban,Fast Food
+Italian,Dinner,Adult,Suburban,Fine Dining
+Indian,Lunch,Senior,Rural,Casual Dining
+Mexican,Dinner,Adult,Urban,Fine Dining
+Chinese,Breakfast,Teen,Urban,Fast Food
+Italian,Lunch,Senior,Suburban,Fine Dining
+Indian,Dinner,Adult,Rural,Casual Dining
+Mexican,Lunch,Teen,Urban,Fast Food
+Chinese,Lunch,Adult,Urban,Casual Dining
+Indian,Breakfast,Senior,Rural,Casual Dining
+Mexican,Dinner,Adult,Urban,Fine Dining
